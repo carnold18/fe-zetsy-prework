@@ -84,32 +84,3 @@ footer {
 	text-align: right;
 	background: #fff;
 }
-
-
-
-
-
-.ch1 {
-  color: rgb(143,160,154);
-}
-
-.wrapper #ch2 {
-  color: rgb(103,113,110);
-}
-
-.wrapper .ch3 {
-  float: right;
-  font-size: .25em;
-}
-
-.ch4 {
-  border: 5px #ccc solid;
-  transition: all 0.5s ease;
-  padding: 1px;
-}
-
-.ch4:hover {
-  border: 5px rgb(111,127,122) solid;
-  background: yellow;
-  padding: 1px;
-}
