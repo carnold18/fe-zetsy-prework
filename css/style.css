@@ -31,6 +31,7 @@ body {
 }
 
 .ch4 {
+  border-style: thick;
   transition: all 0.5s ease;
   background: blue;
   padding: 1px;
