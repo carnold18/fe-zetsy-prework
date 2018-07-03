@@ -31,7 +31,7 @@ body {
 }
 
 .ch4 {
-  border-style: thick;
+  border: 5px #ccc solid;
   transition: all 0.5s ease;
   background: blue;
   padding: 1px;
@@ -40,11 +40,6 @@ body {
 .ch4:hover {
   background: yellow;
   padding: 20px;
-}
-
-#press img {
-	border: 5px #ccc solid;
-	padding: 1px;
 }
 
 #press img:hover {
