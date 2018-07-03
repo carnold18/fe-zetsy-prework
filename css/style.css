@@ -34,6 +34,22 @@ h2 {
 	font-size: 2em;
 }
 
+p  {
+	color: #555;
+	font-size: 1em;
+	margin: 0 0 20px 0;
+}
+
+.copy {
+	font-size: 0.8em;
+}
+
+
+
+
+
+
+
 .ch1 {
   color: rgb(143,160,154);
 }
