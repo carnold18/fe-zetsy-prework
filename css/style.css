@@ -24,3 +24,7 @@ body {
 #ch2 {
   color: rgb(103,113,110);
 }
+
+.ch3 {
+  float: right;
+}
